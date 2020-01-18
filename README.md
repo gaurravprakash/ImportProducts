@@ -25,4 +25,4 @@ Answers are available in DatabaseAnswers.txt .
 2. Navigate to the path where published ImportProducts.exe exists.
 3. Type command - ImportProducts.exe {source type} {file path} . e.g. ImportProducts.exe capterra C:/feed-products/capterra.yaml .
 
-Please feel free to suggest share your feedback and improvements suggestions if any.
+Please feel free to share your feedback and improvements suggestions if any.
