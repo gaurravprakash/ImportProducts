@@ -25,4 +25,10 @@ Answers are available in DatabaseAnswers.txt .
 2. Navigate to the path where published ImportProducts.exe exists.
 3. Type command - ImportProducts.exe {source type} {file path} . e.g. ImportProducts.exe capterra C:/feed-products/capterra.yaml .
 
+# What would you have done differently if you had had more time.
+
+1. I would modify the implemented ParseFile method to return the parsed string rather than directly writing to console.
+2. It would allow me to write some more test cases as well.
+
+
 Please feel free to share your feedback and improvements suggestions if any.
